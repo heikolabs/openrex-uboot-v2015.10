@@ -2,7 +2,7 @@
 mx6q/dl/s/spl openrex u-boot v2015.10 
  
 # Download repository
-    git clone https://github.com/FEDEVEL/openrex-uboot-v2015.10.git
+    git clone https://github.com/heikolabs/openrex-uboot-v2015.10.git
     cd openrex-uboot-v2015.10
  
 # Install cross compiler
